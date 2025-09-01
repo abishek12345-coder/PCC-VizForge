@@ -426,8 +426,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 _Built with ❤️ and lots of ☕ by Satvik Praveen_
 
-![Visualization Examples](https://via.placeholder.com/800x200/1f77b4/ffffff?text=Beautiful+Data+Visualizations+Await!)
-
 ---
 
 ### 🔧 Quick Reference
